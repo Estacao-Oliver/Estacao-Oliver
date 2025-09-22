@@ -20,7 +20,7 @@ O [site de documentação](https://docs.spacestation14.io/) tem documentação s
 
 ## Contribuindo
 
-Nós aceitamos contribuições de qualquer pessoa. Entre no Discord se quiser ajudar. Temos uma [lista de issues](https://github.com/Estacao-Oliver/Estacao-Oliver/issues) que precisam ser feitas e qualquer pessoa pode pegá-las. Não tenha medo de pedir ajuda também!
+Nós aceitamos contribuições de qualquer pessoa. Temos uma [lista de issues](https://github.com/Estacao-Oliver/Estacao-Oliver/issues) que precisam ser feitas e qualquer pessoa pode pegá-las. Não tenha medo de pedir ajuda também!
 
 Atualmente aceitamos traduções do jogo em nosso repositório principal. 
 
