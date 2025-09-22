@@ -39,3 +39,8 @@ Leia [LEGAL.md](/LEGAL.md) para informações legais sobre o licenciamento do c�
 A maioria dos assets estão licenciados sob [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) a menos que stated otherwise. Os assets têm sua licença e direitos autorais no arquivo de metadados. [Exemplo](https://github.com/Estacao-Oliver/Estacao-Oliver/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json).
 
 Note que alguns assets estão licenciados sob a licença não-comercial [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) ou licenças não-comerciais similares e precisarão ser removidos se você quiser usar este projeto comercialmente.
+
+## Idiomas disponíveis
+
+- [English - United States](README.md)
+- [Português - Brasil](README_PT-BR.md)
