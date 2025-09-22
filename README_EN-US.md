@@ -1,5 +1,5 @@
-<p align="center"> <img alt="Estação Oliver Logo" width="128" height="128" src="https://raw.githubusercontent.com/DeltaV-Station/Delta-v/master/Resources/Textures/Logo/logo.png" /></p>
-<!---<p align="center"> <img alt="Estação Oliver Banner" width="512" height="126" src="https://raw.githubusercontent.com/DeltaV-Station/Delta-v/master/Resources/Textures/Logo/banner.png" /></p>-->
+<p align="center"> <img alt="Estação Oliver Logo" width="128" height="128" src="https://raw.githubusercontent.com/Estacao-Oliver/Estacao-Oliver/master/Resources/Textures/Logo/logo.png" /></p>
+<!---<p align="center"> <img alt="Estação Oliver Banner" width="512" height="126" src="https://raw.githubusercontent.com/Estacao-Oliver/Estacao-Oliver/master/Resources/Textures/Logo/banner.png" /></p>-->
 
 Estação Oliver is a fork of [Space Station 14](https://github.com/space-wizards/space-station-14), embracing a mixture of classic SS13 chaos and experimentation only possible with the new engine.
 
@@ -22,10 +22,7 @@ The [docs site](https://docs.spacestation14.io/) has documentation on SS14s cont
 
 We are happy to accept contributions from anybody. Get in Discord if you want to help. We've got a [list of issues](https://github.com/Estacao-Oliver/Estacao-Oliver/issues) that need to be done and anybody can pick them up. Don't be afraid to ask for help either!
 
-We are currently accepting translations of the game on our main repository. If you would like to translate the game into another language check the #localization channel in our [Discord](https://go.estacaooliver.org/AtDxv)
-
-If you make any contributions, please make sure to read the markers section in [MARKERS.md](https://github.com/Estacao-Oliver/Estacao-Oliver/blob/master/MARKERS.md)
-Any changes made to files belonging to our upstream should be properly marked in accordance to what is specified there.
+We are currently accepting translations of the game on our main repository. 
 
 ## Building
 

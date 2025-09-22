@@ -1,5 +1,5 @@
-<p align="center"> <img alt="Estação Oliver Logo" width="128" height="128" src="https://raw.githubusercontent.com/DeltaV-Station/Delta-v/master/Resources/Textures/Logo/logo.png" /></p>
-<!---<p align="center"> <img alt="Estação Oliver Banner" width="512" height="126" src="https://raw.githubusercontent.com/DeltaV-Station/Delta-v/master/Resources/Textures/Logo/banner.png" /></p>-->
+<p align="center"> <img alt="Estação Oliver Logo" width="128" height="128" src="https://raw.githubusercontent.com/Estacao-Oliver/Estacao-Oliver/master/Resources/Textures/Logo/logo.png" /></p>
+<!---<p align="center"> <img alt="Estação Oliver Banner" width="512" height="126" src="https://raw.githubusercontent.com/Estacao-Oliver/Estacao-Oliver/master/Resources/Textures/Logo/banner.png" /></p>-->
 
 Estação Oliver é um fork de [Space Station 14](https://github.com/space-wizards/space-station-14), abraçando uma mistura do caos clássico do SS13 e experimentação só possível com a nova engine.
 
@@ -23,9 +23,6 @@ O [site de documentação](https://docs.spacestation14.io/) tem documentação s
 Nós aceitamos contribuições de qualquer pessoa. Entre no Discord se quiser ajudar. Temos uma [lista de issues](https://github.com/Estacao-Oliver/Estacao-Oliver/issues) que precisam ser feitas e qualquer pessoa pode pegá-las. Não tenha medo de pedir ajuda também!
 
 Atualmente aceitamos traduções do jogo em nosso repositório principal. 
-
-Se fizer qualquer contribuição, por favor leia a seção de marcadores em [MARKERS.md](https://github.com/Estacao-Oliver/Estacao-Oliver/blob/master/MARKERS.md)
-Quaisquer alterações feitas em arquivos pertencentes ao nosso upstream devem ser devidamente marcadas de acordo com o especificado lá.
 
 ## Compilação
 

@@ -20,7 +20,7 @@ Where code from other authors is used, you must follow the terms of both the AGP
 
 For MIT this means you **must not** remove the copy of the MIT license from any distribution.
 
-- Code created by Delta-V contributors is found in `_DV` Namespaces.
+- Code created by Estação Oliver contributors is found in `_EO` Namespaces.
 
 - Upstream code from [Space Station 14](https://github.com/space-wizards/space-station-14) was taken under [the MIT license](/LICENSE-MIT.txt).
   Any code not in a specific Namespace, excluding `Nyanotrasen` subdirectories, is sublicensed as MIT plus AGPLv3 from the Space Wizards Federation.
@@ -40,4 +40,4 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Legacy code
 
-If you do not agree to the terms of these software licenses you may use legacy code from before [this commit](https://github.com/DeltaV-Station/Delta-v/commit/87c70a89a67d0521a56388e6b1c3f2cb947943e4) or the [legacy repository](https://github.com/DeltaV-Station/Delta-v-Legacy) which may be used under the MIT license.
+If you do not agree to the terms of these software licenses you may use legacy code from before [this commit](https://github.com/Estacao-Oliver/Estacao-Oliver/commit/4afe87c147af421a60df4470de914673314f6a45).
